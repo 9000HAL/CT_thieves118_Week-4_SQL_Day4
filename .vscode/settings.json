@@ -10,5 +10,6 @@
             "username": "postgres",
             "password": "CodingTemple4L.."
         }
-    ]
+    ],
+    "notebook.outputFontSize": 10
 }
